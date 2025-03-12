@@ -9,7 +9,7 @@ const Navbar = () => {
       }}
     >
       <div className="container mx-auto p-4 flex items-center text-white justify-between">
-        <div className="font-bold text-lg">Voysa</div>
+        <div className="font-bold text-lg text-white">Voysa</div>
       </div>
     </nav>
   );
